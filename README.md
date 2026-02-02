@@ -1,6 +1,6 @@
-# Automação de Relatórios Hospitalares 🏥
+# Automação de Relatórios Operacionais
 
-Script em Python para processamento automatizado de dados operacionais hospitalares, focado em limpeza de dados e geração de métricas de custos.
+Script em Python que processa dados operacionais (CSV/Excel) e gera relatórios consolidados automaticamente. Focado em limpeza de dados e geração de métricas de custos.
 
 ## 🚀 Funcionalidades
 - **Limpeza de dados:** Remoção de espaços em branco e tratamento de valores nulos.
